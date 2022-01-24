@@ -1,0 +1,15 @@
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\bin\Debug\net6.0\BetweenStates.exe
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\bin\Debug\net6.0\BetweenStates.deps.json
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\bin\Debug\net6.0\BetweenStates.runtimeconfig.json
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\bin\Debug\net6.0\BetweenStates.dll
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\bin\Debug\net6.0\ref\BetweenStates.dll
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\bin\Debug\net6.0\BetweenStates.pdb
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.csproj.AssemblyReference.cache
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.AssemblyInfoInputs.cache
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.AssemblyInfo.cs
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.csproj.CoreCompileInputs.cache
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.dll
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\ref\BetweenStates.dll
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.pdb
+C:\Users\mason\source\repos\BetweenStates\BetweenStates\obj\Debug\net6.0\BetweenStates.genruntimeconfig.cache
